@@ -1,5 +1,8 @@
 # DPI-coding-resources
 
+![tmp logo](digital.png)
+
+
 ## Introduction  
 A shared set of resources for coding, ML/AI, biometrics and bioinformatics. Pull requests are welcome as I hope this repository can become a shared body of work!   
 
