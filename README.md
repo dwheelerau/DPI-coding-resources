@@ -1,6 +1,6 @@
 # DPI-coding-resources
 
-<img src="digital.png" style="size: 50%" />
+<img src="digital.png" style="max-width: 50%" />
 
 
 ## Introduction  
