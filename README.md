@@ -1,6 +1,6 @@
 # DPI-coding-resources
 
-<img src="digital.png" style="max-width: 50%" />
+![tmp logo](digital.png)
 
 
 ## Introduction  
