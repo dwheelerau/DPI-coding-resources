@@ -2,6 +2,27 @@
 
 ![tmp logo](digital.png)
 
+## TOC  
+
+- [DPI-coding-resources](#dpi-coding-resources)
+  * [TOC](#toc)
+  * [Introduction](#introduction)
+  * [Coding IDE's](#coding-ide-s)
+  * [AI code frameworks](#ai-code-frameworks)
+  * [AI training cloud computing frameworks](#ai-training-cloud-computing-frameworks)
+  * [Computer vision training notebooks](#computer-vision-training-notebooks)
+  * [Training guides](#training-guides)
+  * [Pre-trained models](#pre-trained-models)
+  * [Dead tree learning resources](#dead-tree-learning-resources)
+  * [AI based tools](#ai-based-tools)
+  * [Remote sensing](#remote-sensing)
+    + [Drones](#drones)
+    + [Satellite](#satellite)
+  * [Other really good learning resource repos](#other-really-good-learning-resource-repos)
+  * [Upcomming courses](#upcomming-courses)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Introduction  
 A shared set of resources for coding, ML/AI, biometrics and bioinformatics. Pull requests are welcome as I hope this repository can become a shared body of work!   
@@ -53,6 +74,11 @@ In my experience you need <1cm/px resolution to get reliable image detection for
 ### Satellite   
 If you work at DPI/DPE you can request access to [Planet](https://www.planet.com/) which offers standard 3m/px resolution imagery of NSW and 60cm/px on special request.  
 
-
 ## Other really good learning resource repos
 -[good repo covering coding, web, data-science](https://github.com/lauragift21/awesome-learning-resources)
+
+## Online Tools
+- [automatic TOC generation for Markup docs](https://ecotrust-canada.github.io/markdown-toc/)
+
+## Upcomming courses
+R workshop at UofA 20th of March (cost $250) - https://set.adelaide.edu.au/agriculture-food-wine/events/list/2023/03/biometry-hub-introduction-to-r-workshop
