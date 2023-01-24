@@ -19,7 +19,7 @@
     + [Drones](#drones)
     + [Satellite](#satellite)
   * [Other really good learning resource repos](#other-really-good-learning-resource-repos)
-  * [Upcomming courses](#upcomming-courses)
+  * [Upcoming courses](#upcoming-courses)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -80,5 +80,5 @@ If you work at DPI/DPE you can request access to [Planet](https://www.planet.com
 ## Online Tools
 - [automatic TOC generation for Markup docs](https://ecotrust-canada.github.io/markdown-toc/)
 
-## Upcomming courses
+## Upcoming courses
 R workshop at UofA 20th of March (cost $250) - https://set.adelaide.edu.au/agriculture-food-wine/events/list/2023/03/biometry-hub-introduction-to-r-workshop
