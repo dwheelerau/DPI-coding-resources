@@ -61,6 +61,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 
 ## Training guides  
 - [Training a custom object detector using transfer learning](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)
+- [You crazy fool: good guide on using R for AI/ML](https://github.com/hlydecker/MLWIC)
 
 ## Camera trap automation  
 - [MS megadetector v5 (yolo arch) running in a OS independent docker container](https://github.com/Sydney-Informatics-Hub/megadetector-contained)
@@ -80,6 +81,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 - [DALL-E (image related tasks)](https://openai.com/blog/dall-e/)
 - [AI based code completion via co-pilot (might breach open source coding licenses)](https://github.com/features/copilot)
 - [coco_solaris: geojson and image file to COCO format](https://github.com/Sydney-Informatics-Hub/coco_solaris)
+- [labelme: flexible boundary box and labeling tool](https://github.com/hlydecker/labelme)
 
 ## Remote sensing   
 
