@@ -16,6 +16,7 @@
   * [Dead tree learning resources](#dead-tree-learning-resources)
   * [AI based tools](#ai-based-tools)
   * [Remote sensing](#remote-sensing)
+    + [Data](#data)
     + [Drones](#drones)
     + [Satellite](#satellite)
   * [Other really good learning resource repos](#other-really-good-learning-resource-repos)
@@ -68,6 +69,9 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 - [AI based code completion via co-pilot (might breach open source coding licenses)](https://github.com/features/copilot)
 
 ## Remote sensing   
+
+### Data  
+- [DataharvesteR: Preprocess, aggregate, visualise and download geospatial data from a range of Australian (and international) data sources](https://github.com/Sydney-Informatics-Hub/dataharvester)
 ### Drones  
 In my experience you need <1cm/px resolution to get reliable image detection for plant based IDs.  
 
