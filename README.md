@@ -70,6 +70,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 - [Tensorflow2 Model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
 - [Weeds AI models for weed detection via UofSyd](https://github.com/hlydecker/Weed-AI)
 - [AI for Earth megadetector repo](https://github.com/hlydecker/CameraTraps)
+- [Deep weeds: AI based weed detection (Australian)](https://github.com/hlydecker/DeepWeeds)
 
 ## Dead tree learning resources  
 - [Simply the best book ever: Hands-on Machine learning with Scikit-learn, keras, and Tensorflow](https://www.amazon.com.au/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopdsk-22&linkCode=df0&hvadid=341743255824&hvpos=&hvnetw=g&hvrand=6660020724196997058&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1000286&hvtargid=pla-523968811896&psc=1)
