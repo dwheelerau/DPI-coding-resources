@@ -51,9 +51,13 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 - [My guess is that DPI will likely partner with Azure for cloud computing in the future](https://azure.microsoft.com/en-au)
 - [If you have a google account you have access to Google compute (well worth it if you want to dabble in cloud VMs)](https://cloud.google.com/compute)
 - [AWS](https://aws.amazon.com/free/?trk=f181118c-0869-454a-84d2-63d0cf7146e3&sc_channel=ps&s_kwcid=AL!4422!3!638125895456!e!!g!!aws&ef_id=Cj0KCQiA8aOeBhCWARIsANRFrQHlHuQEGtcbEhbitpeLgPixLBLXlilRFYkeC998yq7ExTsAC1jT-U8aAp0pEALw_wcB:G:s&s_kwcid=AL!4422!3!638125895456!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+- [Google computer vision AI portal](https://cloud.google.com/vision/)
 
 ## Computer vision training notebooks  
 - [Roboflow training notebooks mostly focused on the yolo framework (including v8)](https://github.com/roboflow/notebooks)
+- [Syndey Uni informatics hub demo](https://github.com/Sydney-Informatics-Hub/cv-demo)
+- [Everything YOLO related](https://github.com/hlydecker/yolov5)
+
 
 ## Training guides  
 - [Training a custom object detector using transfer learning](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)
@@ -64,6 +68,8 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 
 ## Pre-trained models  
 - [Tensorflow2 Model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
+- [Weeds AI models for weed detection via UofSyd](https://github.com/hlydecker/Weed-AI)
+- [AI for Earth megadetector repo](https://github.com/hlydecker/CameraTraps)
 
 ## Dead tree learning resources  
 - [Simply the best book ever: Hands-on Machine learning with Scikit-learn, keras, and Tensorflow](https://www.amazon.com.au/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopdsk-22&linkCode=df0&hvadid=341743255824&hvpos=&hvnetw=g&hvrand=6660020724196997058&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1000286&hvtargid=pla-523968811896&psc=1)
