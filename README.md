@@ -75,7 +75,8 @@ In my experience you need <1cm/px resolution to get reliable image detection for
 If you work at DPI/DPE you can request access to [Planet](https://www.planet.com/) which offers standard 3m/px resolution imagery of NSW and 60cm/px on special request.  
 
 ## Other really good learning resource repos
--[good repo covering coding, web, data-science](https://github.com/lauragift21/awesome-learning-resources)
+- [good repo covering coding, web, data-science](https://github.com/lauragift21/awesome-learning-resources)
+- [Sydney Uni's Informatics Hub github page of resources](https://github.com/Sydney-Informatics-Hub)
 
 ## Online Tools
 - [automatic TOC generation for Markup docs](https://ecotrust-canada.github.io/markdown-toc/)
