@@ -12,6 +12,7 @@
   * [AI training cloud computing frameworks](#ai-training-cloud-computing-frameworks)
   * [Computer vision training notebooks](#computer-vision-training-notebooks)
   * [Training guides](#training-guides)
+  * [Camera trap automation](#camera-trap-automation)
   * [Pre-trained models](#pre-trained-models)
   * [Dead tree learning resources](#dead-tree-learning-resources)
   * [AI conversion tools and utilities](#ai-conversion-tools-and-utilities)
@@ -56,6 +57,10 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 
 ## Training guides  
 - [Training a custom object detector using transfer learning](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)
+
+## Camera trap automation  
+- [MS megadetector v5 (yolo arch) running in a OS independent docker container](https://github.com/Sydney-Informatics-Hub/megadetector-contained)
+- [Marsupial.ai: Australia-centric camera trap animal detection from Sydney Uni informatics hub](https://github.com/Sydney-Informatics-Hub/marsupial)
 
 ## Pre-trained models  
 - [Tensorflow2 Model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
