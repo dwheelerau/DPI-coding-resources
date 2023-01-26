@@ -14,7 +14,7 @@
   * [Training guides](#training-guides)
   * [Pre-trained models](#pre-trained-models)
   * [Dead tree learning resources](#dead-tree-learning-resources)
-  * [AI based tools](#ai-based-tools)
+  * [AI conversion tools and utilities](#ai-conversion-tools-and-utilities)
   * [Remote sensing](#remote-sensing)
     + [Data](#data)
     + [Drones](#drones)
@@ -63,10 +63,11 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 ## Dead tree learning resources  
 - [Simply the best book ever: Hands-on Machine learning with Scikit-learn, keras, and Tensorflow](https://www.amazon.com.au/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=asc_df_1492032646/?tag=googleshopdsk-22&linkCode=df0&hvadid=341743255824&hvpos=&hvnetw=g&hvrand=6660020724196997058&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1000286&hvtargid=pla-523968811896&psc=1)
 
-## AI based tools  
+## AI conversion tools and utilities  
 - [chatGTP for text related tasks](https://openai.com/blog/chatgpt/)
 - [DALL-E (image related tasks)](https://openai.com/blog/dall-e/)
 - [AI based code completion via co-pilot (might breach open source coding licenses)](https://github.com/features/copilot)
+- [coco_solaris: geojson and image file to COCO format](https://github.com/Sydney-Informatics-Hub/coco_solaris)
 
 ## Remote sensing   
 
