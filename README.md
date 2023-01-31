@@ -57,6 +57,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 - [Roboflow training notebooks mostly focused on the yolo framework (including v8)](https://github.com/roboflow/notebooks)
 - [Syndey Uni informatics hub demo](https://github.com/Sydney-Informatics-Hub/cv-demo)
 - [Everything YOLO related](https://github.com/hlydecker/yolov5)
+- [Tracking and counting objects using Yolov8 (video)](https://www.youtube.com/watch?v=OS5qI9YBkfk)
 
 
 ## Training guides  
