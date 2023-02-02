@@ -104,7 +104,7 @@ If you work at DPI/DPE you can request access to [Planet](https://www.planet.com
 
 ## DPI staff repos
 - [Camera-trap detection using marsupial.ai as a docker container](https://github.com/dwheelerau/marsupial-contained)
-- [Step-by-step guide to using docker on windows](https://github.com/dwheelerau/202302lgonsalves)
+- [Step-by-step guide to using docker on windows](https://github.com/dwheelerau/docker-guide)
 - [Camera-trap detection using megadetector as a docker congtainer](https://github.com/dwheelerau/megadetector-contained)
 
 ## Upcoming courses
