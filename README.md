@@ -46,6 +46,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 - [Tensorflow2 (python)](https://www.tensorflow.org/tutorials/quickstart/beginner)
 - [Keras (python)](https://keras.io/)
 - [h2o (python/R)](https://h2o.ai/)
+- [Yolo docker image](https://github.com/ultralytics/yolov5/wiki/Docker-Quickstart)
 
 ## AI training cloud computing frameworks  
 - [I have a personal subscription to Google colab and it is well worth the dosh](https://colab.research.google.com/)
@@ -59,6 +60,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 - [Syndey Uni informatics hub demo](https://github.com/Sydney-Informatics-Hub/cv-demo)
 - [Everything YOLO related](https://github.com/hlydecker/yolov5)
 - [Tracking and counting objects using Yolov8 (video)](https://www.youtube.com/watch?v=OS5qI9YBkfk)
+- [Tutorial on training a yolov5 model](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data)
 
 
 ## Training guides  
@@ -68,6 +70,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 ## Camera trap automation  
 - [MS megadetector v5 (yolo arch) running in a OS independent docker container](https://github.com/Sydney-Informatics-Hub/megadetector-contained)
 - [Marsupial.ai: Australia-centric camera trap animal detection from Sydney Uni informatics hub](https://github.com/Sydney-Informatics-Hub/marsupial)
+- [U-fuse camera trap pipeline for windows/linux with a GUI!](https://github.com/u-infuse/u-infuse)
 
 ## Pre-trained models  
 - [Tensorflow2 Model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md)
@@ -108,4 +111,5 @@ If you work at DPI/DPE you can request access to [Planet](https://www.planet.com
 - [Camera-trap detection using megadetector as a docker congtainer](https://github.com/dwheelerau/megadetector-contained)
 
 ## Upcoming courses
-R workshop at UofA 20th of March (cost $250) - https://set.adelaide.edu.au/agriculture-food-wine/events/list/2023/03/biometry-hub-introduction-to-r-workshop
+- R workshop at UofA 20th of March (cost $250) - https://set.adelaide.edu.au/agriculture-food-wine/events/list/2023/03/biometry-hub-introduction-to-r-workshop
+- Math of deep learning at Macquire Uni April 20 - https://statsoc.org.au/event-5183897  
