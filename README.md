@@ -47,6 +47,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 - [Keras (python)](https://keras.io/)
 - [h2o (python/R)](https://h2o.ai/)
 - [Yolo docker image](https://github.com/ultralytics/yolov5/wiki/Docker-Quickstart)
+- [GroundingDINO an openset object detector based on natural language prompts](https://github.com/IDEA-Research/GroundingDINO)
 
 ## AI training cloud computing frameworks  
 - [I have a personal subscription to Google colab and it is well worth the dosh](https://colab.research.google.com/)
@@ -66,6 +67,7 @@ If you are new to markdown [here is githubs markdown cheatsheet](https://github.
 ## Training guides  
 - [Training a custom object detector using transfer learning](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html)
 - [You crazy fool: good guide on using R for AI/ML](https://github.com/hlydecker/MLWIC)
+- [Data wrangling challenges for R diehards](https://www.r-bloggers.com/2023/03/data-wrangling-tricks-from-the-r4ds-slack/)
 
 ## Camera trap automation  
 - [MS megadetector v5 (yolo arch) running in a OS independent docker container](https://github.com/Sydney-Informatics-Hub/megadetector-contained)
@@ -97,6 +99,7 @@ In my experience you need <1cm/px resolution to get reliable image detection for
 
 ### Satellite   
 If you work at DPI/DPE you can request access to [Planet](https://www.planet.com/) which offers standard 3m/px resolution imagery of NSW and 60cm/px on special request.  
+- [Automatic segmentation of satellite imagary](https://samgeo.gishub.org/#demos)
 
 ## Other really good learning resource repos
 - [good repo covering coding, web, data-science](https://github.com/lauragift21/awesome-learning-resources)
