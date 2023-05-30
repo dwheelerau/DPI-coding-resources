@@ -113,6 +113,4 @@ If you work at DPI/DPE you can request access to [Planet](https://www.planet.com
 - [Step-by-step guide to using docker on windows](https://github.com/dwheelerau/docker-guide)
 - [Camera-trap detection using megadetector as a docker congtainer](https://github.com/dwheelerau/megadetector-contained)
 
-## Upcoming courses
-- R workshop at UofA 20th of March (cost $250) - https://set.adelaide.edu.au/agriculture-food-wine/events/list/2023/03/biometry-hub-introduction-to-r-workshop
-- Math of deep learning at Macquire Uni April 20 - https://statsoc.org.au/event-5183897  
+## Upcoming courses 
